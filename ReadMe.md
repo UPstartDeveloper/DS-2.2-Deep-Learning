@@ -107,3 +107,6 @@ To pass this course you must meet the following requirements:
 - [Course Credit Policy](https://make.sc/course-credit-policy)
 - [Disability Services (Academic Accommodations)](https://make.sc/disability-services)
 - [Student Handbook](https://make.sc/student-handbook)
+
+## Cool Articles to read
+[Deep Learning from Scratch and Using TF in Python - Contain **Pseudocode for NN**](https://towardsdatascience.com/deep-learning-from-scratch-and-using-tensorflow-in-python-34aad75f939) - Milad Toutounchian on Medium
