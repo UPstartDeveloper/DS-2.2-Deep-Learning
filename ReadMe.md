@@ -112,3 +112,5 @@ To pass this course you must meet the following requirements:
 [Deep Learning from Scratch and Using TF in Python - Contain **Pseudocode for NN**](https://towardsdatascience.com/deep-learning-from-scratch-and-using-tensorflow-in-python-34aad75f939) - Milad Toutounchian on Medium
 
 [Kaggle Notebook on Data Augmentation](https://www.kaggle.com/moghazy/guide-to-cnns-with-data-augmentation-keras)
+
+[What Activation Functions to Use and When, by Stacey Ronaghan](https://towardsdatascience.com/deep-learning-which-loss-and-activation-functions-should-i-use-ac02f1c56aa8)
